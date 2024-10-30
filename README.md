@@ -10,7 +10,7 @@ Key challenges such as premature convergence, computational demands, and paramet
 
 # Files Included
 
--> PDF of Research Paper [View](
+-> PDF of Research Paper [View](https://github.com/AhanaS07/Genetic-Algorithms---Research-Paper/blob/main/Published%20Paper.pdf)
 
 -> PDF of Certificate of Publication [View](https://github.com/AhanaS07/Genetic-Algorithms---Research-Paper/blob/main/Certificate.pdf)
 
