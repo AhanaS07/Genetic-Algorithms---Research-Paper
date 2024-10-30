@@ -14,8 +14,8 @@ Key challenges such as premature convergence, computational demands, and paramet
 
 -> PDF of Certificate of Publication [View](https://github.com/AhanaS07/Genetic-Algorithms---Research-Paper/blob/main/Certificate.pdf)
 
--> PDF of Acceptance Letter [View](
+-> PDF of Acceptance Letter [View](https://github.com/AhanaS07/Genetic-Algorithms---Research-Paper/blob/main/Acceptance%20Letter.pdf)
 
 # Additional Information
 
--> 
+-> View Article Online [Here](https://www.ijsr.net/getabstract.php?paperid=SR24721004409)
